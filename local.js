@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  9,639 Two or More Races Population ${1 year} years 59 min.
+  9,639 Two or More Races Population ${1 year} years 59 min.}</span>min
 
 
   </marquee></li>`;
